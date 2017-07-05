@@ -1,8 +1,6 @@
 import React, { Component } from 'react';
-import './App.css';
 import CategoryBox from './categoryBox'
 import ExpnBox from './expnBox'
-
 import shortid from 'shortid';
 
 class App extends Component {
